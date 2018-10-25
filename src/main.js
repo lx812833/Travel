@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import store from './store'
-//reset.css在进行页面开发的时候，会针对不同浏览器对css进行一些初始化的设置与重设
+//reset.css在进行页面开发的时候，针对不同浏览器对css进行一些初始化的设置与重设
 import 'styles/reset.css'
 //轮播图插件
 import VueAwesomeSwiper from 'vue-awesome-swiper'
